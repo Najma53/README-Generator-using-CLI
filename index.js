@@ -51,7 +51,10 @@ const questions = [
     type: "list",
     message: "Please choose your licence",
     name: "license",
-    choices: ["MIT", "Apache", "GPLv2"]
+    choices: ["MIT", "Apache", "GPLv3"]
+    // filter(val) {
+    //     return val.toLowerCase();
+    // }
 }, 
 //  When a user enters their GitHub username then this is added to the section of the README entitled Questions, with a link to their GitHub profile
 {
@@ -78,7 +81,14 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-
+return inquirer.prompt(questions)
+.then((answers)=>{
+    console.log(answers)
+    return answers
+})
+.catch((error)=>{
+    console.log(error)
+})
 }
 
 // function call to initialize program
