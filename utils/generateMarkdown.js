@@ -15,28 +15,29 @@ This README file was generated using this very Readme Generator
  - [Tests](#tests)
  - [Questions](#questions)
 
-## Description
+##  Description
 ${answers.description}
 
-## Installation
+##  Installation
 ${answers.installation}
 
-## Usage
+##  Usage
 ${answers.usage}
 
 ##  License
 
 License under the ${answers.license} lisence. To view further documentation please click on the [link](https://opensource.org/licenses)
 
-## Contributing
+##  Contributing
 ${answers.contributing}
 
-## Tests
+##  Tests
 ${answers.tests}
 
-## Questions
-${answers.github}
-${answers.email}
+##  Questions
+If any question, don't hesitate to contact me via [GitHub](https://github.com/${answers.github}) or by [email](mailto:${answers.email}) for additional questions.
+
+
 
 `;
 }
