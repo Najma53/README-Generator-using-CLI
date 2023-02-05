@@ -4,6 +4,9 @@ function generateMarkdown(answers) {
   
 # ${answers.title}
 
+![Open Source Licence](https://img.shields.io/badge/Licence-${answers.license}-ff69b4)\n
+This README file was generated using this very Readme Generator
+
   ## Table of Content
  - [Installation](#Installation)  
  - [Usage](#Usage)
@@ -13,9 +16,9 @@ function generateMarkdown(answers) {
  - [Questions](#Questions)
 
 ## Description
- ${answers.description}
+${answers.description}
 
- ## Installation
+## Installation
 ${answers.installation}
 
 ## Usage
@@ -23,7 +26,7 @@ ${answers.usage}
 
 ##  License
 
-
+License under the ${answers.license} lisence. To view further documentation please click on the [link](https://opensource.org/licenses)
 
 ## Contributing
 ${answers.contributing}
