@@ -69,8 +69,12 @@ const questions = [
     message: "Please enter your email address where users and contributors can reach you with addtional questions",
     name: "email"
 },
-//  When a user clicks on the links in the **Table of Contents** then they are taken to the corresponding section of the README
-
+//  When a user enters their deployed link, should take it to the page.
+{
+    type: "input'",
+    message: "Please enter the URL link of your deployed site",
+    name: "deployed"
+},
 
 
 ];
