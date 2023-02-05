@@ -8,12 +8,12 @@ function generateMarkdown(answers) {
 This README file was generated using this very Readme Generator
 
   ## Table of Content
- - [Installation](#Installation)  
- - [Usage](#Usage)
+ - [Installation](#installation)  
+ - [Usage](#usage)
  - [License](#license)
- - [Contribuing](#Contributing)
- - [Tests](#Tests)
- - [Questions](#Questions)
+ - [Contribuing](#contributing)
+ - [Tests](#tests)
+ - [Questions](#questions)
 
 ## Description
 ${answers.description}
