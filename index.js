@@ -52,9 +52,7 @@ const questions = [
     message: "Please choose your licence",
     name: "license",
     choices: ["MIT", "Apache", "GPLv3"]
-    // filter(val) {
-    //     return val.toLowerCase();
-    // }
+    
 }, 
 //  When a user enters their GitHub username then this is added to the section of the README entitled Questions, with a link to their GitHub profile
 {

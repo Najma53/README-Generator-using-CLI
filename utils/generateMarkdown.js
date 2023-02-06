@@ -11,10 +11,10 @@ This README file was generated using this very Readme Generator
  - [Installation](#installation)  
  - [Usage](#usage)
  - [License](#license)
- - [Contribuing](#contributing)
+ - [Contributing](#contributing)
  - [Tests](#tests)
  - [Questions](#questions)
- - [Deployed Link](#answers.deployed)
+ - [Deployed Link](#deployed)
 
 ##  Description
 ${answers.description}

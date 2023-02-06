@@ -1,8 +1,8 @@
 
   
-# ReadMe Generator
+# ReadMe Generator Using CLI
 
-![Open Source Licence](https://img.shields.io/badge/Licence-Apache-ff69b4)
+![Open Source Licence](https://img.shields.io/badge/Licence-MIT-ff69b4)
 
 This README file was generated using this very Readme Generator
 
@@ -10,10 +10,10 @@ This README file was generated using this very Readme Generator
  - [Installation](#installation)  
  - [Usage](#usage)
  - [License](#license)
- - [Contribuing](#contributing)
+ - [Contributing](#contributing)
  - [Tests](#tests)
  - [Questions](#questions)
- - [Deployed Link](#answers.deployed)
+ - [Deployed Link](#deployed)
 
 ##  Description
 This application is a command line application that takes user input based on questions provided and then generates README.md file that display all the information required for the project.
@@ -26,10 +26,10 @@ When prompted answer the question, then press enter, once entered you cannot cha
 
 ##  License
 
-License under the Apache lisence. To view further documentation please click on the [link](https://opensource.org/licenses)
+License under the MIT lisence. To view further documentation please click on the [link](https://opensource.org/licenses)
 
 ##  Contributing
-To  contribute Fork the repository ,make the changes and if accepted it will be added to the repo
+To contribute Fork the repository ,make the changes and if accepted it will be added to the repo
 
 ##  Tests
 Not Applicable
@@ -38,7 +38,7 @@ Not Applicable
 If any question, don't hesitate to contact me via [GitHub](https://github.com/Najma53) or by [email](mailto:najma.alibhai@gmail.com) for additional questions.
 
 ##  Deployed Link
-Not Available
+https://github.com/Najma53/README-Generator-using-CLI/blob/main/README.md
 
 
 
